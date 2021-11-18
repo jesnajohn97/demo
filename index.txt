@@ -1,1 +1,2 @@
 changes in index file 1
+changes in index file 2
